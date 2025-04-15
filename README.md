@@ -24,7 +24,7 @@ Passionate about breaking things ethically, I build tools so others can test the
 </p>
 
 ## My projects:
-🎲 [Monitoring](https://Vault-of-Jok3r.github.io) — Web interface for monitoring the activity of ransomware groups 
+🎲 [Monitoring](https://Vault-of-Jok3r.github.io) — Web interface for monitoring the activity of ransomware groups    
 🎲 [SQLPaf](https://github.com/Vault-of-Jok3r/SQLPaf) — AI-powered automated exploitation of SQL injections    
 🎲 [Casino Directory](https://github.com/Vault-of-Jok3r/casino-directory) — A virtual Casino where your files and your directories are the currency    
 🎲 [CorpoRat](https://github.com/Vault-of-Jok3r/CorpoRat) — A command & control tool    
