@@ -1,6 +1,3 @@
-# I'm not the bad guy... I help them sleep at night. 🔐
-Passionate about breaking things ethically, I build tools so others can test their defenses before the bad guys do.
-
 ## What to know about me:
 ㅤ
 
