@@ -7,7 +7,7 @@
 ## My skills:
 ♣️ Languages I use regularly:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,java,php,html,css,js,mysql,arduino&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell,c,java,php,html,css,js,mysql,arduino&perline=11" />
 </p>
 
 ♣️ Tools I work with:
